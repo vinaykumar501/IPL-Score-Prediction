@@ -8,9 +8,9 @@ Users can enter match details such as batting team, bowling team, current score,
 ---
 # 🚀 Live Demo
 
-🔗 **Streamlit App:** https://your-streamlit-link  
-
-🔗 **GitHub Repository:** https://github.com/yourusername/IPL-Score-Prediction
+🔗 **Streamlit App:** [https://your-streamlit-link ](https://ipl-score-prediction-m8xdcq3lbpmbyltgjge9ig.streamlit.app/) 
+🔗 **Huggingface:** https://huggingface.co/spaces/sleep501/IPL_Score_Prediction
+🔗 **GitHub Repository:** https://github.com/vinaykumar501/IPL-Score-Prediction
 
 ---
 # 🚀 Demo
